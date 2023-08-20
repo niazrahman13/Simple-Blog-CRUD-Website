@@ -1,0 +1,23 @@
+.marginTop{
+    margin: 8%;
+    
+}
+p {
+    width: 350px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.editDecoration{
+    text-decoration: none;
+    color: red;
+    
+}
+.updateDecoration{
+    text-decoration: none;
+    
+}
+
+.img{
+    height: 350px;
+}
