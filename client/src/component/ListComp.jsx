@@ -33,7 +33,7 @@ export default function ListComp() {
         lists.map((data,idx)=>{  
           return(
         <Col key={idx}>
-        <Card className="">
+        <Card className="card-size">
           <Card.Img className="img" variant="top" src={data['image']}/>
           <Card.Body>
             <h2>{data['Title']}</h2>
